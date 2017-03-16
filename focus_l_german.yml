@@ -1941,7 +1941,7 @@ EMU_total_emu_equality:0 "Total emu equality"
   EMU_emu_mind_control:0 "Emu mind control"
  EMU_emu_mind_control_desc:0 "It's probably a good idea to plant a chip in our subjects to obey our totally democratic demands."
   EMU_unite_all_emus:0 "Unite all emus"
- EMU_unite_all_emusdesc:0 "Let's help our foreign brothers in need!"
+ EMU_unite_all_emus_desc:0 "Let's help our foreign brothers in need!"
  #
    EMU_speak_to_our_indonesian_brothers:0 "Speak to our Indonesian brothers"
  EMU_speak_to_our_indonesian_brothers_desc:0 "Let's convince them to join us, with weapons ofcourse."
@@ -1968,7 +1968,7 @@ EMU_speak_to_our_japanese_brothers_desc:0 "War is te only solution against fasci
   EMU_emu_research_labs:0 "Emu war research labs"
  EMU_emu_research_labs_desc:0 "Emus havn't been the best researchers in the past. Now they are the best!"
   EMU_emus_can_fly:0 "emus CAN fly"
- EMU_emys_can_fly_desc:0 "People said we couldn't fly. We've proven them wrong! HA! We've got planes!"
+ EMU_emus_can_fly_desc:0 "People said we couldn't fly. We've proven them wrong! HA! We've got planes!"
   #
    EMU_advanced_industry:0 "Advanced Industry"
  EMU_advanced_industry_desc:0 "Rapid industrial development is pretty cool right?"
